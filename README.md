@@ -4,11 +4,7 @@
 
 中国·对外经济贸易大学
 
-Assistant Professor
-
-School of Statistics
-
-University of International Business and Economics (UIBE)
+Assistant Professor  School of Statistics  University of International Business and Economics (UIBE)
 
 Beijing China
 
