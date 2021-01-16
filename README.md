@@ -1,17 +1,10 @@
 # 伊梦茜博士，教授，博士生导师
 # Prof. Dr. Mengxi Yi
 
-# 联系方式 Contact
-北京市朝阳区惠新东街10号  
-对外经济贸易大学统计学院
-
-Huixin Dongjie 10  
-Chaoyang, Beijing, 100029  
-China
 
 
-[Research](Research.md)
-
+[Research](Research.md)  
+[Teaching](Teaching.md)
 
 
 
