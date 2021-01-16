@@ -2,9 +2,8 @@
 # Prof. Dr. Mengxi Yi
 
 
-
-[Research](Research.md)  
-[Teaching](Teaching.md)
+  [Research](Research.md)  
+  [Teaching](Teaching.md)
 
 
 
