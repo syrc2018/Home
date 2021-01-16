@@ -25,6 +25,6 @@ Beijing China
 2014，美国罗格斯大学，统计学专业硕士  
 2011，东南大学，物理学专业学士
 
-PhD in Statistics, 2019, Rutgers, the State University of New Jersey, New Brunswick, USA.
-M.Sc. in Statistics, 2014, Rutgers, the State University of New Jersey, New Brunswick, USA.
+PhD in Statistics, 2019, Rutgers, the State University of New Jersey, New Brunswick, USA.  
+M.Sc. in Statistics, 2014, Rutgers, the State University of New Jersey, New Brunswick, USA.  
 B.Sc. in Physics, 2011, Southeast University, Nanjing, China.
