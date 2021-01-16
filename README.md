@@ -10,7 +10,7 @@ Chaoyang, Beijing, 100029
 China
 
 
-[Research](.../Research.md)
+[Research](Research.md)
 
 
 
